@@ -41,7 +41,7 @@ ingresa mail receptor
 ****************************************************************/
 
 if( !$error ) {
-	mail("francisco@apkestudio.com", $subject, $mensaje, $from);
+	mail("email@receptor.com", $subject, $mensaje, $from);
 }
 ?>
 				
